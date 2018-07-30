@@ -8,3 +8,5 @@ To install:
 
 Clone this repo => install dependecies => start server.js
 
+Thanks for looking 💙
+
